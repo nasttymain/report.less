@@ -1,3 +1,5 @@
+@import "report.less"
+
 # report.less
 
 Markdown Preview Enhanced で レポートを書くための横着カスタムスタイルシート
@@ -6,4 +8,11 @@ Markdown Preview Enhanced で レポートを書くための横着カスタム�
 
 ```md
 @import "report.less"
+
+...
 ```
+
+## ギャラリー
+![](demo.png)
+
+*こんな感じになります*
